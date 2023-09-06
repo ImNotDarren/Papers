@@ -1,1 +1,8 @@
 # Papers
+
+## Large Language models
+
+- 2023 - Evaluating the Feasibility of ChatGPT in Healthcare: An Analysis of Multiple Clinical and Research Scenarios - [[paper](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC9985086/)]
+- 2023 - Can Large Language Models Reason about Medical Questions? - [[paper](https://arxiv.org/abs/2207.08143)]
+- 2023 - ClinicalGPT: Large Language Models Finetuned with Diverse Medical Data and Comprehensive Evaluation - [[paper](https://arxiv.org/abs/2306.09968)]
+- 2021 - LoRA: Low-Rank Adaptation of Large Language Models - [[paper](https://arxiv.org/abs/2106.09685)]
