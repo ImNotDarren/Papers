@@ -1,8 +1,9 @@
 # Papers
 
-## Large Language models
+## Large Language Models
 
 - 2023 - Augmenting Black-box LLMs with Medical Textbooks for Clinical Question Answering - [[paper](https://arxiv.org/abs/2309.02233)]
+- 2023 - Llama 2: Open Foundation and Fine-Tuned Chat Models - [[paper](https://arxiv.org/abs/2307.09288)]
 - 2023 - ChatGPT-HealthPrompt. Harnessing the Power of XAI in Prompt-Based Healthcare Decision Support using ChatGPT - [[paper](https://arxiv.org/abs/2308.09731)]
 - 2023 - How Is ChatGPT’s Behavior Changing over Time? - [[paper](https://arxiv.org/pdf/2307.09009.pdf)]
 - 2023 - Evaluating the Feasibility of ChatGPT in Healthcare: An Analysis of Multiple Clinical and Research Scenarios - [[paper](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC9985086/)]
@@ -14,3 +15,8 @@
 - 2023 - Can Large Language Models Reason about Medical Questions? - [[paper](https://arxiv.org/abs/2207.08143)]
 - 2023 - ClinicalGPT: Large Language Models Finetuned with Diverse Medical Data and Comprehensive Evaluation - [[paper](https://arxiv.org/abs/2306.09968)]
 - 2021 - LoRA: Low-Rank Adaptation of Large Language Models - [[paper](https://arxiv.org/abs/2106.09685)]
+
+
+## Super Alarm
+
+- 2014 - Insights into the Problem of Alarm Fatigue with Physiologic Monitor Devices: A Comprehensive Observational Study of Consecutive Intensive Care Unit Patients - [[paper](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0110274)]
