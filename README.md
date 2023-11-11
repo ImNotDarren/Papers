@@ -23,6 +23,6 @@
 - 2014 - Insights into the Problem of Alarm Fatigue with Physiologic Monitor Devices: A Comprehensive Observational Study of Consecutive Intensive Care Unit Patients - [[paper](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0110274)]
 
 
-## Image processing
+## Image Processing
 
 - 2017 - Deformable Convolutional Networks - [[paper](https://arxiv.org/abs/1703.06211)]
