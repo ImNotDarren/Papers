@@ -2,6 +2,7 @@
 
 ## Large Language Models
 
+- 2023 - The Dawn of LLMs: Preliminary Explorations with GPT-4V - [[paper](https://arxiv.org/pdf/2309.17421.pdf)]
 - 2023 - Augmenting Black-box LLMs with Medical Textbooks for Clinical Question Answering - [[paper](https://arxiv.org/abs/2309.02233)]
 - 2023 - Llama 2: Open Foundation and Fine-Tuned Chat Models - [[paper](https://arxiv.org/abs/2307.09288)]
 - 2023 - ChatGPT-HealthPrompt. Harnessing the Power of XAI in Prompt-Based Healthcare Decision Support using ChatGPT - [[paper](https://arxiv.org/abs/2308.09731)]
@@ -20,3 +21,8 @@
 ## Super Alarm
 
 - 2014 - Insights into the Problem of Alarm Fatigue with Physiologic Monitor Devices: A Comprehensive Observational Study of Consecutive Intensive Care Unit Patients - [[paper](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0110274)]
+
+
+## Image processing
+
+- 2017 - Deformable Convolutional Networks - [[paper](https://arxiv.org/abs/1703.06211)]
