@@ -11,10 +11,12 @@
 - 2023 - AugGPT: Leveraging ChatGPT for Text Data Augmentation - [[paper](https://arxiv.org/abs/2302.13007)]
 - 2023 - A Study of Generative Large Language Model for Medical Research and Healthcare - [[paper](https://arxiv.org/abs/2305.13523)]
 - 2023 - MedGPTEval: A Dataset and Benchmark to Evaluate Responses of Large Language Models in Medicine - [[paper](https://arxiv.org/abs/2305.07340)]
+- 2023 - DeID-GPT: Zero-shot Medical Text De-Identification by GPT-4 - [[paper](https://arxiv.org/abs/2303.11032)]
 - 2023 - Does Synthetic Data Generation of LLMs Help Clinical Text Mining?  - [[paper](https://arxiv.org/abs/2303.04360)]
 - 2023 - LLaMA: Open and Efficient Foundation Language Models - [[paper](https://arxiv.org/abs/2302.13971)]
 - 2023 - Can Large Language Models Reason about Medical Questions? - [[paper](https://arxiv.org/abs/2207.08143)]
 - 2023 - ClinicalGPT: Large Language Models Finetuned with Diverse Medical Data and Comprehensive Evaluation - [[paper](https://arxiv.org/abs/2306.09968)]
+- 2022 - Large Language Models are Few-Shot Clinical Information Extractors - [[paper](https://aclanthology.org/2022.emnlp-main.130/)]
 - 2021 - LoRA: Low-Rank Adaptation of Large Language Models - [[paper](https://arxiv.org/abs/2106.09685)]
 
 
