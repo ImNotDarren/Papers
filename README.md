@@ -2,6 +2,7 @@
 
 ## Large Language Models
 
+- 2023 - Large Language Models are Few-Shot Health Learners - [[paper](https://arxiv.org/abs/2305.15525)]
 - 2023 - The Dawn of LLMs: Preliminary Explorations with GPT-4V - [[paper](https://arxiv.org/pdf/2309.17421.pdf)]
 - 2023 - Augmenting Black-box LLMs with Medical Textbooks for Clinical Question Answering - [[paper](https://arxiv.org/abs/2309.02233)]
 - 2023 - Llama 2: Open Foundation and Fine-Tuned Chat Models - [[paper](https://arxiv.org/abs/2307.09288)]
@@ -18,6 +19,7 @@
 - 2023 - ClinicalGPT: Large Language Models Finetuned with Diverse Medical Data and Comprehensive Evaluation - [[paper](https://arxiv.org/abs/2306.09968)]
 - 2022 - Large Language Models are Few-Shot Clinical Information Extractors - [[paper](https://aclanthology.org/2022.emnlp-main.130/)]
 - 2021 - LoRA: Low-Rank Adaptation of Large Language Models - [[paper](https://arxiv.org/abs/2106.09685)]
+- 2021 - The Power of Scale for Parameter-Efficient Prompt Tuning - [[paper](https://arxiv.org/abs/2104.08691)]
 
 
 ## Super Alarm
