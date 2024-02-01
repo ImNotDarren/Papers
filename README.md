@@ -2,6 +2,8 @@
 
 ## Large Language Models
 
+- 2024 - Time-LLM: Time Series Forecasting by Reprogramming Large Language Models - [[paper](https://arxiv.org/abs/2310.01728)]
+- 2024 - Health-LLM: Large Language Models for Health Prediction via Wearable Sensor Data - [[paper](https://arxiv.org/abs/2401.06866)]
 - 2023 - Large Language Models are Few-Shot Health Learners - [[paper](https://arxiv.org/abs/2305.15525)]
 - 2023 - The Dawn of LLMs: Preliminary Explorations with GPT-4V - [[paper](https://arxiv.org/pdf/2309.17421.pdf)]
 - 2023 - Augmenting Black-box LLMs with Medical Textbooks for Clinical Question Answering - [[paper](https://arxiv.org/abs/2309.02233)]
