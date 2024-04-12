@@ -2,6 +2,7 @@
 
 ## Large Language Models
 
+- 2024 - Large-scale Training of Foundation Models for Wearable Biosignals - [[paper](https://arxiv.org/abs/2312.05409)]
 - 2024 - Time-LLM: Time Series Forecasting by Reprogramming Large Language Models - [[paper](https://arxiv.org/abs/2310.01728)]
 - 2024 - Health-LLM: Large Language Models for Health Prediction via Wearable Sensor Data - [[paper](https://arxiv.org/abs/2401.06866)]
 - 2023 - Large Language Models are Few-Shot Health Learners - [[paper](https://arxiv.org/abs/2305.15525)]
