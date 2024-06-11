@@ -1,5 +1,10 @@
 # Papers
 
+## Human Computer Interaction
+
+- 2024 - Constrained Highlighting in a Document Reader can Improve Reading Comprehension - [[paper](https://dl.acm.org/doi/abs/10.1145/3613904.3642314)]
+- 2024 - Designing for Caregiver-facing Values Elicitation Tools - [[paper](https://dl.acm.org/doi/pdf/10.1145/3613904.3642214)] [[video](https://www.youtube.com/watch?v=ESAqFHm9i4Q)]
+
 ## Large Language Models
 
 - 2024 - Large-scale Training of Foundation Models for Wearable Biosignals - [[paper](https://arxiv.org/abs/2312.05409)]
