@@ -1,6 +1,6 @@
 # Papers
 
-## Human Computer Interaction
+## Human-Computer Interaction
 
 - 2024 - Constrained Highlighting in a Document Reader can Improve Reading Comprehension - [[paper](https://dl.acm.org/doi/abs/10.1145/3613904.3642314)]
 - 2024 - Designing for Caregiver-facing Values Elicitation Tools - [[paper](https://dl.acm.org/doi/pdf/10.1145/3613904.3642214)] [[video](https://www.youtube.com/watch?v=ESAqFHm9i4Q)]
@@ -26,6 +26,7 @@
 - 2023 - Can Large Language Models Reason about Medical Questions? - [[paper](https://arxiv.org/abs/2207.08143)]
 - 2023 - ClinicalGPT: Large Language Models Finetuned with Diverse Medical Data and Comprehensive Evaluation - [[paper](https://arxiv.org/abs/2306.09968)]
 - 2022 - Large Language Models are Few-Shot Clinical Information Extractors - [[paper](https://aclanthology.org/2022.emnlp-main.130/)]
+- 2022 - LinkBERT: Pretraining Language Models with Document Links - [[paper](https://arxiv.org/abs/2203.15827)]
 - 2021 - LoRA: Low-Rank Adaptation of Large Language Models - [[paper](https://arxiv.org/abs/2106.09685)]
 - 2021 - The Power of Scale for Parameter-Efficient Prompt Tuning - [[paper](https://arxiv.org/abs/2104.08691)]
 
