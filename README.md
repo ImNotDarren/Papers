@@ -1,5 +1,9 @@
 # Papers
 
+## Diffusion Models
+
+- 2022 - Diffusion Models for Medical Anomaly Detection - [[paper](https://arxiv.org/pdf/2203.04306)]
+
 ## Human-Computer Interaction
 
 - 2024 - Constrained Highlighting in a Document Reader can Improve Reading Comprehension - [[paper](https://dl.acm.org/doi/abs/10.1145/3613904.3642314)]
