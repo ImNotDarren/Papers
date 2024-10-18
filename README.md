@@ -3,6 +3,7 @@
 ## Diffusion Models
 
 - 2022 - Diffusion Models for Medical Anomaly Detection - [[paper](https://arxiv.org/pdf/2203.04306)]
+- 2020 - Denoising Diffusion Probabilistic Models - [[paper](https://arxiv.org/abs/2006.11239)]
 
 ## Human-Computer Interaction
 
