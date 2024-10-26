@@ -9,6 +9,7 @@
 
 - 2024 - Constrained Highlighting in a Document Reader can Improve Reading Comprehension - [[paper](https://dl.acm.org/doi/abs/10.1145/3613904.3642314)]
 - 2024 - Designing for Caregiver-facing Values Elicitation Tools - [[paper](https://dl.acm.org/doi/pdf/10.1145/3613904.3642214)] [[video](https://www.youtube.com/watch?v=ESAqFHm9i4Q)]
+- 2024 - AscleAI: A LLM-based Clinical Note Management System for Enhancing Clinician Productivity - [[paper](https://dl.acm.org/doi/abs/10.1145/3613905.3650784)]
 
 ## Large Language Models
 
