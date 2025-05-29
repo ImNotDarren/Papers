@@ -1,5 +1,11 @@
 # Papers
 
+# Agent
+
+- A practical guide to building agents - [[link](https://cdn.openai.com/business-guides-and-resources/a-practical-guide-to-building-agents.pdf)]
+- 2025 - MedRAX: Medical Reasoning Agent for Chest X-ray - [[paper](https://arxiv.org/abs/2502.02673)]
+- 2024 - A Vision-Language Foundation Model to Enhance Efficiency of Chest X-ray Interpretation - [[paper](https://arxiv.org/abs/2401.12208)]
+
 ## Diffusion Models
 
 - 2022 - Diffusion Models for Medical Anomaly Detection - [[paper](https://arxiv.org/pdf/2203.04306)]
