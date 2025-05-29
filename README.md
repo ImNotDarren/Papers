@@ -1,6 +1,6 @@
 # Papers
 
-# Agent
+## Agent
 
 - A practical guide to building agents - [[link](https://cdn.openai.com/business-guides-and-resources/a-practical-guide-to-building-agents.pdf)]
 - 2025 - MedRAX: Medical Reasoning Agent for Chest X-ray - [[paper](https://arxiv.org/abs/2502.02673)]
