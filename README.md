@@ -6,6 +6,10 @@
 - 2025 - MedRAX: Medical Reasoning Agent for Chest X-ray - [[paper](https://arxiv.org/abs/2502.02673)]
 - 2024 - A Vision-Language Foundation Model to Enhance Efficiency of Chest X-ray Interpretation - [[paper](https://arxiv.org/abs/2401.12208)]
 
+## CXR
+
+- 2024 - CheXagent: Towards a Foundation Model for Chest X-Ray Interpretation - [[link](https://stanford-aimi.github.io/chexagent.html)]
+
 ## Diffusion Models
 
 - 2022 - Diffusion Models for Medical Anomaly Detection - [[paper](https://arxiv.org/pdf/2203.04306)]
